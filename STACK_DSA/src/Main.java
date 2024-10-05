@@ -36,7 +36,15 @@ public class Main {
         // to see top most item
         System.out.println("Top most item:\n");
         System.out.println(stack.peek());
+//find, will return 1 if exits
+        System.out.println(stack.search("GTA"));
+// will return -1 if does not exit
+        System.out.println(stack.search("PUBG"));
 
+        for(int i = 0; i<300; i++) {
+            stack.push("FIFA\n");
+        }
+        System.out.println(stack);
     }
 
 
