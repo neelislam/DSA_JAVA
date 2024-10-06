@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked_List_Java/Linked_List_Java.iml" filepath="$PROJECT_DIR$/Linked_List_Java/Linked_List_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Priority Queue_Java/Priority Queue_Java.iml" filepath="$PROJECT_DIR$/Priority Queue_Java/Priority Queue_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue_Java/Queue_Java.iml" filepath="$PROJECT_DIR$/Queue_Java/Queue_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/STACK_DSA/STACK_DSA.iml" filepath="$PROJECT_DIR$/STACK_DSA/STACK_DSA.iml" />
