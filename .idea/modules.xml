@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dynamic array/Dynamic array.iml" filepath="$PROJECT_DIR$/Dynamic array/Dynamic array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear search/Linear search.iml" filepath="$PROJECT_DIR$/Linear search/Linear search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked_List_Java/Linked_List_Java.iml" filepath="$PROJECT_DIR$/Linked_List_Java/Linked_List_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Priority Queue_Java/Priority Queue_Java.iml" filepath="$PROJECT_DIR$/Priority Queue_Java/Priority Queue_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue_Java/Queue_Java.iml" filepath="$PROJECT_DIR$/Queue_Java/Queue_Java.iml" />
