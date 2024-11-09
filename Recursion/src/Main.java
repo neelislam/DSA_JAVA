@@ -4,14 +4,31 @@ public class Main {
     public static void main(String[] args) {
         walk(5); //normal stuff
 
-        recursiveWalk(5);
+        recursiveWalk(2);
+        
+       System.out.println(factorial(7));
+    }
+
+    private static int factorial(int num) {
+        if(num<1)
+            return 1;
+            if(num > 1){
+            System.out.print(num+ " * ");
+            }
+
+            if(num == 1){
+            System.out.print(num+ " = ");}
+        return num * factorial(num -1);
+
+
+
     }
 
     private static void recursiveWalk(int steps) {
 
         if(steps < 1)
             return;
-        System.out.println("You take a step in recursion");
+        System.out.println( steps + " steps remaining");
         recursiveWalk(steps-1);
     }
 
