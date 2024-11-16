@@ -41,7 +41,7 @@ We use Hashtable for its efficiency in storing and retrieving data using keys. I
 Advantages of Hashtable
 Fast Access: It provides constant time complexity on average for basic operations like add, remove, and lookup.
 
-Thread-Safe: It is synchronized, making it safe for use in a multi-threaded environment.
+Thread-Safe: It is synchronized, making it safe for use in a multithreaded environment.
 
 No Null Keys/Values: It does not allow null keys or values, which helps prevent errors related to null references.
 
